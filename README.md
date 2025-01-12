@@ -6,3 +6,5 @@ Responsive Design: The page adjusts for different screen sizes (desktop, tablet,
 Navigation: Includes links to different sections such as Products, Cart, and Checkout.<br><br>
 Product Display: Displays a collection of products with images, prices, and brief descriptions.<br><br>
 Simple Interactivity: Basic JavaScript for simple interactivity (e.g., hover effects, product filtering).
+<br><br>
+~Created by SurajRaturi
